@@ -10,7 +10,7 @@
 
 ![https://github.com/sergioromero2k](./sergio_romero_profile.png)
 
-<h2><picture><img src="![image](https://github.com/user-attachments/assets/0249d116-ec5e-4b05-b665-6ea2f45af078)" width = "25" align="center"></picture> About Me</h2>
+<h2>🐼 About Me</h2>
 
 I am a Programmer since 2023, with a great passion for technology and problem-solving. My programming repertoire includes languages such as Python, Node.js, Java, and many more, allowing me to tackle a wide variety of development projects.
 
