@@ -63,9 +63,12 @@ Below, you can find information about the programming languages, technologies, a
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <div align="left">
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sergioromero2k)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioromero2k/)  
-</div>		
+  <a href="https://linktr.ee/sergioromero2k" target="_blank">
+<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="[https://youtu.be/vJapzH_46a8](https://www.linkedin.com/in/sergioromero2k/)" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&color=fbfc40">
+  </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b>* Credit: </b> [Sergio A. Romero](https://github.com/sergioromero2k) <br>
