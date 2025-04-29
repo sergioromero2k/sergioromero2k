@@ -10,7 +10,7 @@
 
 ![https://github.com/sergioromero2k](./sergio_romero_profile.png)
 
-<h2><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = "25" align="center"></picture> About Me</h2>
+<h2><picture><img src="![image](https://github.com/user-attachments/assets/0249d116-ec5e-4b05-b665-6ea2f45af078)" width = "25" align="center"></picture> About Me</h2>
 
 I am a Programmer since 2023, with a great passion for technology and problem-solving. My programming repertoire includes languages such as Python, Node.js, Java, and many more, allowing me to tackle a wide variety of development projects.
 
@@ -48,14 +48,14 @@ Below, you can find information about the programming languages, technologies, a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> GitHub Analytics </b>
 
 <p align="center">
 <a href="https://github.com/sergioromero2k">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergioromero2k&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergioromero2k&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>		
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
