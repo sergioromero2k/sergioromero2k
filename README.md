@@ -66,9 +66,9 @@ Below, you can find information about the programming languages, technologies, a
   <a href="https://linktr.ee/sergioromero2k" target="_blank">
 <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=github&logoColor=black">
 </a><br>
-<a href="https://www.linkedin.com/in/sergioromero2k/" target="_blank">
-<img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b>* Credit: </b> [Sergio A. Romero](https://github.com/sergioromero2k) <br>
