@@ -52,9 +52,9 @@ Below, you can find information about the programming languages, technologies, a
 
 <div align="center">
 
-![Sergio Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioromero2k&show_icons=true&theme=white)
+![Sergio Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioromero2k&show_icons=true&theme=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromero2k&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromero2k&hide_progress=false&show_icons=true)
 
 </div>		
 
