@@ -63,7 +63,7 @@ Below, you can find information about the programming languages, technologies, a
 
             
 <div align="center">
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sergioromero2k) <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioromero2k/) <br>
 ![](https://komarev.com/ghpvc/?username=sergioromero2k&style=flat-square)
