@@ -54,7 +54,7 @@ Below, you can find information about the programming languages, technologies, a
 
 ![Sergio Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioromero2k&show_icons=true&theme=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromero2k&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromero2k&hide_progress=false)
 
 </div>		
 
