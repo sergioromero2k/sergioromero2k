@@ -65,7 +65,7 @@ Below, you can find information about the programming languages, technologies, a
 <div align="left">
  <a href="https://linktr.ee/sergioromero2k" target="_blank">
 <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktr&logoColor=black">
-</a> con esta logica pero para linkedin
+</a> 
 <a href="https://www.linkedin.com/in/sergioromero2k" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
