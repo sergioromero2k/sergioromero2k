@@ -50,13 +50,12 @@ Below, you can find information about the programming languages, technologies, a
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
 
-<div align="center">
-
-![Sergio Romero GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioromero2k&show_icons=true&theme=white)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromero2k)
-
-</div>		
+<p align="center">
+<a href="https://github.com/sergioromero2k">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergioromero2k&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sergioromero2k&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>		
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
