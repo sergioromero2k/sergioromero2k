@@ -72,6 +72,6 @@ Below, you can find information about the programming languages, technologies, a
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <b>* Credit: </b> [Sergio A. Romero](https://github.com/sergioromero2k) <br>
-<b>* Last Edited on: </b> 17/07/2024
+<b>* Last Edited on: </b> 06/10/2025
 
 
