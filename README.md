@@ -52,8 +52,8 @@ Below, you can find information about the programming languages, technologies, a
 
 <p align="center">
 <a href="https://github.com/sergioromero2k">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sergioromero2k&show_icons=true&theme=algolia&include_all_commits=true&text_color=ffffff&count_private=true" bg_color=#808080//>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioromero2k&show_icons=true&locale=en&bg_color=#808080&text_color=ffffff&layout=compact"alt="sergioromero2k"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergioromero2k&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="sergioromero2k" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergioromero2k&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="sergioromero2k" bg_color=#808080/>
 </a>
 </p>
 
