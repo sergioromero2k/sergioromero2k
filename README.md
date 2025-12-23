@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### A passionate full stack developer!
+### A passionate Software Developer!
 
 </div >
 
