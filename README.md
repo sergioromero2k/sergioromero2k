@@ -8,7 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
-![https://github.com/sergioromero2k](./sergio_romero_profile.png)
+![https://github.com/sergioromero2k](./SR_profile.png)
 
 <h2>🐼 About Me</h2>
 
